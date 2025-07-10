@@ -1,0 +1,11 @@
+div {
+    font-family:Arial, Helvetica, sans-serif; font-size: 32px;font-weight:600;text-align:center;
+    color:white;background-color: red;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;font-size: 18;
+    color: white;background-color: green;
+}
+button {
+    font-size: 18px;background-color: orange;
+}
